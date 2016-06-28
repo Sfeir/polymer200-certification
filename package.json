@@ -1,0 +1,22 @@
+{
+  "name": "poly-movie",
+  "description": "a movies list polymer application",
+  "private": true,
+  "devDependencies": {
+    "lodash": "^4.13.1"
+  },
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.3",
+    "lodash": "^4.13.1",
+    "method-override": "^2.3.6"
+  },
+  "scripts": {
+    "test": "gulp test:local",
+    "start": "node server/server & polymer serve",
+    "lint": "gulp lint"
+  },
+  "engines": {
+    "node": ">=0.12.0"
+  }
+}

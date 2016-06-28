@@ -1,0 +1,17 @@
+{
+  "name": "poly-movie",
+  "description": "a movies list polymer application",
+  "main": "index.html",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.4.0",
+    "Materialize": "materialize#^0.97.6"
+  },
+  "devDependencies": {
+    "app-layout": "polymerlabs/app-layout#master",
+    "app-route": "polymerelements/app-route#~0.9.0",
+    "iron-elements": "PolymerElements/iron-elements#~1.0.10",
+    "paper-elements": "PolymerElements/paper-elements#~1.0.7",
+    "neon-animation": "PolymerElements/neon-animation#^1.2.3",
+    "jquery": "^3.0.0"
+  }
+}

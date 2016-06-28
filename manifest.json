@@ -1,0 +1,7 @@
+{
+  "name": "poly-movie",
+  "short_name": "poly-movie",
+  "description": "a movies list polymer application",
+  "start_url": "/",
+  "display": "standalone"
+}
