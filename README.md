@@ -90,7 +90,7 @@ Elle est accessible à l'url `/edit/{id}`.
 * Elle doit afficher le formulaire de création d'un **FILM**
 * Les champs doivent être pré-remplis avec les informations du film en cours de modification
 * L'url de l'api à utiliser pour récupérer un film est: GET:http://localhost:3001/api/movies/:id
-* L'url de l'api à utiliser pour modifier un film est: PUT:http://localhost:3001/api/movies/:id 
+* L'url de l'api à utiliser pour modifier un film est: PUT:http://localhost:3001/api/movies/
 * Les champs `titre` et `status` sont obligatoire
 * Elle doit permettre la validation du formulaire
 * Une fois le film créé, on redirige vers la liste
